@@ -1,0 +1,66 @@
+[rgunawan_mbpro]:pj1 rgunawan$ java Shop items.txt orders.txt
+-----------------------------------------------------
+### Tom has taken a cart! ###
+Added [Shampoo] to Tom's cart.
+Tom's cart: [Shampoo]
+-----------------------------------------------------
+Added [Detergent] to Tom's cart.
+Tom's cart: [Shampoo, Detergent]
+-----------------------------------------------------
+### Sally has taken a cart! ###
+Added [Laptop] to Sally's cart.
+Sally's cart: [Laptop]
+-----------------------------------------------------
+### Harry has taken a cart! ###
+Added [Headphones] to Harry's cart.
+Harry's cart: [Headphones]
+-----------------------------------------------------
+Added [Jeans] to Sally's cart.
+Sally's cart: [Laptop, Jeans]
+-----------------------------------------------------
+Added [Shoes] to Sally's cart.
+Sally's cart: [Laptop, Jeans, Shoes]
+-----------------------------------------------------
+[Video] not found in Ben's cart.
+-----------------------------------------------------
+Viewing Tom's cart:
+---------------------------
+Shampoo              $    8 
+Detergent            $   10 
+-----------------------------------------------------
+### Valerie has taken a cart! ###
+Added [Dress] to Valerie's cart.
+Valerie's cart: [Dress]
+-----------------------------------------------------
+### Ben has taken a cart! ###
+Added [Video] to Ben's cart.
+Ben's cart: [Video]
+-----------------------------------------------------
+Viewing Harry's cart:
+---------------------------
+Headphones           $   70 
+-----------------------------------------------------
+Added [Vespa] to Tom's cart.
+Tom's cart: [Shampoo, Detergent, Vespa]
+-----------------------------------------------------
+Added [Sofa] to Tom's cart.
+Tom's cart: [Shampoo, Detergent, Vespa, Sofa]
+-----------------------------------------------------
+Viewing Sally's cart:
+---------------------------
+Laptop               $  500 
+Jeans                $   50 
+Shoes                $   70 
+-----------------------------------------------------
+Sally has checked out. Total: $620
+-----------------------------------------------------
+Viewing Tom's cart:
+---------------------------
+Shampoo              $    8 
+Detergent            $   10 
+Vespa                $ 1100 
+Sofa                 $  900 
+-----------------------------------------------------
+Tom's cart already has [Shampoo].
+-----------------------------------------------------
+Tom has checked out. Total: $2018
